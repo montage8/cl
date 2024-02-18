@@ -5,7 +5,7 @@ a = Analysis(
     ['cl.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('ms.ogg', '.'), ('mr.ogg', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
